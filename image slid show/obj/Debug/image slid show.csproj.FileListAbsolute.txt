@@ -1,0 +1,20 @@
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\obj\Debug\image slid show.csproj.AssemblyReference.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\obj\Debug\image_slid_show.Form1.resources
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\obj\Debug\image_slid_show.Properties.Resources.resources
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\obj\Debug\image slid show.csproj.GenerateResource.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\obj\Debug\image slid show.csproj.CoreCompileInputs.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\bin\Debug\image slid show.exe.config
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\bin\Debug\image slid show.exe
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\bin\Debug\image slid show.pdb
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\obj\Debug\image slid show.exe
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\image slid show\image slid show\obj\Debug\image slid show.pdb
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\bin\Debug\image slid show.exe.config
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\bin\Debug\image slid show.exe
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\bin\Debug\image slid show.pdb
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\obj\Debug\image slid show.csproj.AssemblyReference.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\obj\Debug\image_slid_show.Form1.resources
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\obj\Debug\image_slid_show.Properties.Resources.resources
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\obj\Debug\image slid show.csproj.GenerateResource.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\obj\Debug\image slid show.csproj.CoreCompileInputs.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\obj\Debug\image slid show.exe
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\New folder\image slid show\image slid show\obj\Debug\image slid show.pdb
