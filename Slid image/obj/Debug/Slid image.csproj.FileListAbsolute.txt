@@ -1,0 +1,11 @@
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\bin\Debug\Slid image.exe.config
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\bin\Debug\Slid image.exe
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\bin\Debug\Slid image.pdb
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid image.csproj.AssemblyReference.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid_image.Form1.resources
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid_image.Properties.Resources.resources
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid image.csproj.GenerateResource.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid image.csproj.CoreCompileInputs.cache
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid image.exe
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid image.pdb
+C:\Users\dreams\Desktop\New folder\Tasks\Singleton\Calc\New folder\Slid image\Slid image\obj\Debug\Slid_image.Form3.resources
